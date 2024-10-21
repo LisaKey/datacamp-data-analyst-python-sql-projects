@@ -1,6 +1,6 @@
 # Datacamp projects
-🇫🇷
-## Description globale
+
+## 🇫🇷 Description globale
 Ce dossier regroupe plusieurs projets 📚 réalisés au cours de ma formation en Data Analyst 📊 sur la plateforme DataCamp. Chacun de ces projets est conçu pour aborder des problématiques réelles à l'aide d'outils et techniques analytiques modernes.
 
 ### À travers ces projets, j'ai développé une solide expertise dans :
@@ -11,8 +11,7 @@ Ce dossier regroupe plusieurs projets 📚 réalisés au cours de ma formation e
 - 📌 `Visualisation de données` :chart_with_upwards_trend: : création de graphiques pertinents et interactifs pour la prise de décision.
 Ces projets reflètent mon aptitude à résoudre des problèmes complexes en utilisant des outils de programmation et des approches analytiques. Ils couvrent divers domaines, notamment l'analyse des performances d'un processus de fabrication, la segmentation de clientèle, ou encore l’analyse de données marketing.
 
-🇬🇧
-## Global description
+## 🇬🇧 Global description
 This folder contains several projects completed during my Data Analyst 📊 training on the DataCamp platform. Each project addresses real-world challenges using modern analytical tools and techniques.
 
 ### Through these projects, I have developed strong expertise in:
