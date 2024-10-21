@@ -1,4 +1,4 @@
-# Datacamp projects
+# Python and SQL Datacamp Projects
 
 ## 🇬🇧 Global description
 This folder contains several projects completed during my Data Analyst 📊 training on the DataCamp platform. Each project addresses real-world challenges using modern analytical tools and techniques.
